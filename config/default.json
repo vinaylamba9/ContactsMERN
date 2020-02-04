@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vinay:v7986481913@cluster0-oeevy.mongodb.net/test?retryWrites=true&w=majority",
+  "secretKey": "secretKeyforJWT"
+}
